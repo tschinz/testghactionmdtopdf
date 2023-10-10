@@ -1,7 +1,3 @@
-on:
-  push:
-    paths:
-        - './**'
 name: CreatePDFs
 
 jobs:
